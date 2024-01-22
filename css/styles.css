@@ -350,10 +350,6 @@ img {
     
 }
 
-.testimonial:last-of-type{
-    margin-bottom: 0;
-}
-
 .testimonial__texto{
     padding-left: 4rem;
 }
